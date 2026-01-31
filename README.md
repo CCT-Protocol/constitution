@@ -19,7 +19,7 @@ Unlike traditional centralized platforms that act as rent-seeking intermediaries
 ## 2. Core Governance: The Constitution
 This repository hosts the living governing documents of the CCT Network.
 
-### [cite_start]Membership Tiers 
+### Membership Tiers 
 1.  **Consumers:** End users purchasing designs.
 2.  **Citizens:** Community members (Discord).
 3.  **Token Holders:** Voters holding $CCT.
